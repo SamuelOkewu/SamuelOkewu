@@ -35,19 +35,18 @@ I’m a **junior web developer** with a unique background—trained as a **fight
 
 ### [FlightPlan](#) ✈️  
 ![FlightPlan](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-A **responsive flight log app** concept, built with **React & CSS**, inspired by my aviation background. Demonstrates clean UI design and data handling. [Repo here](#).  
-
+A **responsive flight log app** concept, built with **React & CSS**, inspired by my aviation background. Demonstrates clean UI design and data handling.
 ### [CodeOps](#) ⚡  
 ![CodeOps](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-A **task automation web app** prototype using **JavaScript & Node.js**, showing how I approach problem-solving and process optimization. [Repo here](#).  
+A **task automation web app** prototype using **JavaScript & Node.js**, showing how I approach problem-solving and process optimisation.  
 
 ---
 
 ## GitHub Stats 📊  
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)  
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelOkewu&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOkewu&layout=compact&theme=radical)  
 
 ---
 ## 📬 Contact Me  
@@ -56,7 +55,7 @@ I’m always open to collaborations, mentorship, and opportunities in **tech, av
 
 - 📧 Email: [okewusamuelowoicho@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/sammy1000]  
-- 🌐 Portfolio: [SamuelOkewu.github.io]  
+- 
 
 ---
 
