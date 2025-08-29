@@ -61,11 +61,11 @@ I’m always open to collaborations, mentorship, and opportunities in **tech, av
 
 ---
 
-**![Banner]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dvdnFwY3Rub2t2cjU4NXV6dXY4bDRqM2tteGhodTJ5YzJ3ZWVhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SitSmUtPFhe7XvmCQu/giphy.gif**
+**![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dvdnFwY3Rub2t2cjU4NXV6dXY4bDRqM2tteGhodTJ5YzJ3ZWVhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SitSmUtPFhe7XvmCQu/giphy.gif)**
 
 ---
 
-**![Banner]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dvdnFwY3Rub2t2cjU4NXV6dXY4bDRqM2tteGhodTJ5YzJ3ZWVhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vCO45cZOE0Aw3Kkm5K/giphy.gif**
+**![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dvdnFwY3Rub2t2cjU4NXV6dXY4bDRqM2tteGhodTJ5YzJ3ZWVhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vCO45cZOE0Aw3Kkm5K/giphy.gif)**
 
 
 ---
