@@ -31,6 +31,25 @@ I’m a **junior web developer** with a unique background—trained as a **fight
 
 ---
 
+## Featured Projects 💻  
+
+### [FlightPlan](#) ✈️  
+![FlightPlan](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+A **responsive flight log app** concept, built with **React & CSS**, inspired by my aviation background. Demonstrates clean UI design and data handling. [Repo here](#).  
+
+### [CodeOps](#) ⚡  
+![CodeOps](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+A **task automation web app** prototype using **JavaScript & Node.js**, showing how I approach problem-solving and process optimization. [Repo here](#).  
+
+---
+
+## GitHub Stats 📊  
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)  
+
+---
 ## 📬 Contact Me  
 
 I’m always open to collaborations, mentorship, and opportunities in **tech, aviation, or innovation**.  
