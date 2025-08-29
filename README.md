@@ -50,7 +50,7 @@ I’m always open to collaborations, mentorship, and opportunities in **tech, av
 ---
 
 
-> ✨ “From cockpits to code editors — I’m passionate about solving problems, whether in the skies or on the web.” ✨
+✨ “From cockpits to code editors — I’m passionate about solving problems, whether in the skies or on the web.” ✨
 
 
 ---
