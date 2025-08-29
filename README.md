@@ -13,7 +13,7 @@ I’m a **junior web developer** with a unique background—trained as a **fight
 - 🔭 Working on: small but growing **portfolio projects** to sharpen my skills  
 - 🌍 Languages: **English** + beginner in **Arabic** (from training in Egypt) + code languages 😉   
 - ⚡ Fun fact: I’ve landed fighter jets, but debugging JavaScript sometimes feels harder!
-- - 🔭 Aspiring to build **tech startups** that solve real-world problems at scale  
+- 🔭 Aspiring to build **tech startups** that solve real-world problems at scale  
 - ✈️ Still serving in active duty, with a long-term vision to bridge **aviation and technology**  
 
 ✨ I believe in continuous growth, resilience, and using technology to make the world safer and smarter.  
@@ -31,16 +31,6 @@ I’m a **junior web developer** with a unique background—trained as a **fight
 
 ---
 
-## Featured Projects 💻  
-
-### [FlightPlan](#) ✈️  
-![FlightPlan](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-A **responsive flight log app** concept, built with **React & CSS**, inspired by my aviation background. Demonstrates clean UI design and data handling.
-### [CodeOps](#) ⚡  
-![CodeOps](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-A **task automation web app** prototype using **JavaScript & Node.js**, showing how I approach problem-solving and process optimisation.  
-
----
 
 ## GitHub Stats 📊  
 
@@ -55,13 +45,16 @@ I’m always open to collaborations, mentorship, and opportunities in **tech, av
 
 - 📧 Email: [okewusamuelowoicho@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/sammy1000]  
-- 
+
 
 ---
+
 
 > ✨ “From cockpits to code editors — I’m passionate about solving problems, whether in the skies or on the web.” ✨
 
+
 ---
+
 
 ➡️ Feel free to open an issue or contribute to any of my repositories. Let’s build something impactful together!  
 
