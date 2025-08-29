@@ -60,9 +60,3 @@ I’m always open to collaborations, mentorship, and opportunities in **tech, av
 
 
 ---
-
-**![Banner](https://giphy.com/gifs/HrithikRoshan-hrithik-roshan-vande-mataram-aerial-action-B1WU3MS9xJ1fwAcCq1)**
-
----
-
-![Banner](https://giphy.com/gifs/jet-navy-usnavy-jpsztlihBM4TPz9VyD)
